@@ -18,6 +18,7 @@ We provide an example listing response ([data/reports.json](data/reports.json)) 
 Furthermore we need a way to block the content and resolve those reports. The two buttons in the frontend should do a call to your backend service in order to block the content and to resolve the ticket. You are free to make up the blocking as you want, the resolving is defined as a PUT request to an endpoint with this structure /reports/:reportId. An example request for how to update a report is in [data/update_ticket_request.json](data/update_ticket_request.json).
 
 *Blocking* means that the content should no longer be available to users
+
 *Resolving* means that the report is considered "resolved", and it is no longer visible to the spam protection team
 
 # Instructions
