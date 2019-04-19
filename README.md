@@ -1,4 +1,4 @@
-Example Fullstack Challenge
+Example Full-Stack Challenge
 ========================
 
 We're excited that you're interested in performing the coding challenge.
@@ -23,7 +23,7 @@ Furthermore we need a way to block the content and resolve those reports. The tw
 
 # Instructions
 - Please don't spend more than 3 hours.
-- Choose whatever frameworks you are comfortable with and that lets you achieve a solution in the given time limit. Please nothing too esoteric. We prefer Java, Ruby, Python or Elixir.
+- Choose whatever frameworks you are comfortable with and that lets you achieve a solution in the given time limit. Please nothing too esoteric. We prefer Java, Ruby, Node.js, Python or Elixir.
 - Provide the solution source code either as zip or as a link to the code repository
 
 # What we're looking for:
