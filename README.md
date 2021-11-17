@@ -11,7 +11,7 @@ It consists of a RESTful backend that exposes a single endpoint that when given 
 
 It consists of a frontend that calls the backend with the ID `b762e005-b762-485f-8f7e-7229d4b7622` and renders the phase onto the page according to the below screen
 
-The UI should look something like:
+The UI should look like:
 
 ![Phase UI](images/onflow.jpeg)
 
