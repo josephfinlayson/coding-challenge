@@ -7,7 +7,7 @@ The purpose of this test is to see how you approach problems as well as to evalu
 
 This challenge imagines that we have a screen that displays a single phase on an onboarding workflow.
 
-It consists of a RESTful backend that exposes a single endpoint that when given an ID, it returns the phase by that ID
+It consists of a RESTful backend that exposes a single endpoint that when given an ID, it returns the phase by that ID. Please see `data/phases.json` for the data structure your backend should use. No need to connect it to a database.
 
 It consists of a frontend that calls the backend with the ID `b762e005-b762-485f-8f7e-7229d4b7622` and renders the phase onto the page according to the below screen
 
