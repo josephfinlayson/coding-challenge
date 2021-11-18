@@ -15,8 +15,10 @@ The UI should look like:
 
 ![Phase UI](images/onflow.jpeg)
 
+Please see a higher resolution of this file, directly in the Figma designs
+
 ## Instructions
-- Please don't spend more than *4 hours**.
+- Please don't spend more than *4 hours*. If you find yourself taking longer than that, reduce the amount of features (i.e. user assignment, due date), and just focus on getting the basics right.
 - Choose whatever **NodeJS** framework you are comfortable with and that lets you achieve a solution in the given time limit. Please nothing too esoteric.
 - For the frontend, please use **React JS** in whatever wrapper framework or state management library you like using
 - Provide the solution source code as a link to the code repository
