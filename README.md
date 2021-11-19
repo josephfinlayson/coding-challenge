@@ -18,7 +18,8 @@ The UI should look like:
 Please see a higher resolution of this file, directly in the Figma designs
 
 ## Instructions
-- Please don't spend more than *4 hours*. If you find yourself taking longer than that, reduce the amount of features (i.e. user assignment, due date), and just focus on getting the basics right.
+- Please don't spend more than *4 hours*. If you find yourself taking longer than that, reduce the amount of features (i.e. user avatar, due date), and just focus on getting the UI and code as crisp as possible. I'd much rather have fewer features that look perfect than lots of messy features. 
+- A lot of the icons and fonts may not be available to you, please use an icon library that you have available to you
 - Choose whatever **NodeJS** framework you are comfortable with and that lets you achieve a solution in the given time limit. Please nothing too esoteric.
 - For the frontend, please use **React JS** in whatever wrapper framework or state management library you like using
 - Provide the solution source code as a link to the code repository
